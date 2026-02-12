@@ -1,10 +1,9 @@
 ---
 name: bureaucracy-simplification
-description: Identify and eliminate organizational complexity that impedes action,
-  replacing prescriptive policies with principles that empower managers to lead.
+description: Identify and eliminate organizational complexity that impedes action, replacing prescriptive policies with principles that empower managers to lead.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - bureaucracy-simplification
