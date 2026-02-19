@@ -3,7 +3,7 @@ name: bureaucracy-simplification
 description: Identify and eliminate organizational complexity that impedes action, replacing prescriptive policies with principles that empower managers to lead.
 license: MIT
 metadata:
-  version: 1.0.3515
+  version: 1.0.3516
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
